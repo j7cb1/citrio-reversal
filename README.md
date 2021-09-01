@@ -1,5 +1,5 @@
 # citrio-reversal
-Archived reversal of citrio
+Archived reversal of the pay to cheat citrio
 This reversal is over 6 months old and is being stored here.
 
 # Reversal of the p2c citr.io
